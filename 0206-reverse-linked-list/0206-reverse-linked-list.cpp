@@ -21,7 +21,9 @@ public:
             temp = temp->next;
         }
         temp = head;
-        auto it = arr.rbegin();
+
+        reverse(arr.begin(),arr.end());
+        auto it = arr.begin();
 
         while(temp) {
             temp->val = *it;
