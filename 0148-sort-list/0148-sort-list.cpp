@@ -11,24 +11,18 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-
         vector<int> nums;
-
-        for(auto temp = head; temp; temp = temp->next)
-        {
-            nums.push_back(temp->val);
-        }
+        for(auto curr = head; curr; curr = curr->next)
+        nums.push_back(curr->val);
 
         sort(nums.begin(),nums.end());
 
-        auto temp = head;
-        auto it = nums.begin();
-
-        while(temp)
+        auto curr = head;
+        for(auto it = nums.begin(); it!= nums.end();it++)
         {
-            temp->val = *it;
-            ++it;
-            temp = temp->next;
+            curr->val = *it;
+            curr = curr->next;
+        
         }
         return head;
     }
