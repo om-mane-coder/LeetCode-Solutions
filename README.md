@@ -43,6 +43,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -75,6 +77,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -95,4 +98,5 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
