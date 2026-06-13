@@ -43,6 +43,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -88,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
