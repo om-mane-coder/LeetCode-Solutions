@@ -11,19 +11,56 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        vector<int> nums;
-        for(auto curr = head; curr; curr = curr->next)
-        nums.push_back(curr->val);
+        if(!head || !head->next) return head;
 
-        sort(nums.begin(),nums.end());
+        ListNode* slow = head;
+        ListNode* fast = head->next;
 
-        auto curr = head;
-        for(auto it = nums.begin(); it!= nums.end();it++)
+        while(fast && fast->next)
         {
-            curr->val = *it;
-            curr = curr->next;
-        
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        return head;
+
+        //Lets split the list into two halves
+
+        ListNode* secondHalf = slow->next;
+        slow->next = nullptr;
+
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(secondHalf);
+
+        return merge(left, right);
+        
+    }
+
+    private:
+    ListNode* merge(ListNode* l1, ListNode* l2)
+    {
+        ListNode dummy(0);
+
+        ListNode* tail = &dummy;
+
+        while(l1 && l2)
+        {
+            if(l1->val <= l2->val)
+            {
+                tail->next = l1;
+                l1 = l1->next;
+            }
+            else
+            {
+                tail->next = l2;
+                l2 = l2->next;
+            }
+
+            tail = tail->next;
+        }
+
+        //Let me attach whichever list has leftover nodes
+
+        tail->next = l1 ? l1 : l2;
+
+        return dummy.next;
     }
 };
