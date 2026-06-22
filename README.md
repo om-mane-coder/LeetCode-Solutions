@@ -39,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
