@@ -9,47 +9,41 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
- /*Algortihm that I would like to use here
-     Iterative BFS (Level Order)
-
-Idea:
-
-Put root in a queue.
-Process one level at a time.
-Count how many levels exist.
-
-  */
-
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
 
-        if(root == nullptr)
+      if(root == nullptr)
          return 0;
 
-         queue<TreeNode*> q;
-         q.push(root);
+         stack<pair<TreeNode*,int>> st;
+
+         st.push({root, 1});
 
          int depth = 0;
 
-         while(!q.empty())
+         while(!st.empty())
          {
-            int n = q.size();
+            auto [node, currdepth] = st.top();
 
-            while(n--)
+            st.pop();
+
+            depth = max(depth, currdepth);
+
+            if(node->left)
             {
-                TreeNode* node = q.front();
-                q.pop();
-
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
+                st.push({node->left,currdepth + 1});
 
             }
 
-            depth++;
-         }
+            if(node->right)
+            {
+                st.push({node->right, currdepth + 1});
 
+            }
+
+            
+         }
          return depth;
         
     }
