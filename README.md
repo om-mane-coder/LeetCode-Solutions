@@ -139,4 +139,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
