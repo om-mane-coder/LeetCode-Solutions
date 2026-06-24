@@ -125,9 +125,18 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
