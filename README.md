@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Linked List
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
