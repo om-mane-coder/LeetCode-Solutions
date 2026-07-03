@@ -7,8 +7,8 @@ public:
 
         while(x)
         {
-            cnt += x & 1;
-            x >>= 1;
+            x = x & (x - 1);
+            cnt++;
         }
 
         return cnt;
