@@ -4,10 +4,10 @@ class Solution {
         int x = start ^ goal;
         int cnt = 0;
 
-        while( x!=0)
+        while(x != 0)
         {
-            cnt += (x & 1);
-            x >>= 1;
+            x = x & (x - 1);
+            cnt++;
         }
 
         return cnt;
