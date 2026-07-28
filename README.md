@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -136,6 +138,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Queue
 |  |
