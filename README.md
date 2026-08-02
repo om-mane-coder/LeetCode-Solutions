@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0049-group-anagrams](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -183,6 +186,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -194,4 +198,8 @@
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
