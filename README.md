@@ -151,6 +151,7 @@
 | [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Queue
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
