@@ -64,6 +64,7 @@
 | [0148-sort-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0020-valid-parentheses](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Design
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Queue
 |  |
@@ -189,6 +193,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
@@ -202,4 +207,5 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
