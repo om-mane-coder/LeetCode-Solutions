@@ -86,6 +86,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
@@ -174,4 +178,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
