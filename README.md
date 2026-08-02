@@ -152,6 +152,7 @@
 | [0136-single-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Queue
 |  |
 | ------- |
@@ -184,8 +185,13 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
