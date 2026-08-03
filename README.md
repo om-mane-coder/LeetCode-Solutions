@@ -122,6 +122,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
