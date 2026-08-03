@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [1903-largest-odd-number-in-string](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Linked List
 |  |
@@ -123,6 +124,7 @@
 | [0049-group-anagrams](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1903-largest-odd-number-in-string](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Design
 |  |
@@ -177,6 +179,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [1903-largest-odd-number-in-string](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
 | ------- |
