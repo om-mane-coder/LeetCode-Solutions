@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -225,4 +227,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
