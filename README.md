@@ -105,6 +105,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
