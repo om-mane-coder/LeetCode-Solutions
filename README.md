@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Linked List
@@ -103,6 +104,7 @@
 | [0098-validate-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
