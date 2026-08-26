@@ -61,6 +61,7 @@
 | [0225-implement-stack-using-queues](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -177,6 +181,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -235,4 +240,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
