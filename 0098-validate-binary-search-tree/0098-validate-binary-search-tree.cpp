@@ -11,33 +11,26 @@
  */
 class Solution {
 public:
+    bool isValid(TreeNode* root, long long low, long long high) {
+        if(root == NULL)
+        {
+            return true;
+        }
+        //defining the range
 
-      TreeNode* prev = nullptr;
+        if(root->val <= low || root->val >= high)
+        {
+            return false;
+        }
 
-      bool inorder(TreeNode* root)
-      {
+        //left subtree: values between low and root->val
+        //right subtree: values between root->val and high
+
+        return isValid(root->left, low,root->val) && isValid(root->right, root->val, high);
         
-
-        
-            if(root == nullptr)
-              return true;
-
-            if(!inorder(root->left))
-               return false;
-
-            if(prev != nullptr && root->val <= prev->val)
-               return false;
-
-             prev = root;
-
-            return inorder(root->right);
-        
-
-        
-      }
-    bool isValidBST(TreeNode* root) {
-          return inorder(root);
-       
-        
+    }
+    bool isValidBST(TreeNode* root)
+    {
+        return isValid(root, LLONG_MIN, LLONG_MAX);
     }
 };
