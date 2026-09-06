@@ -176,6 +176,7 @@
 | [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0179-largest-number) |
