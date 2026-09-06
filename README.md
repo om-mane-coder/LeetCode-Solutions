@@ -93,6 +93,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -107,6 +108,7 @@
 | [0069-sqrtx](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -126,6 +128,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -161,6 +164,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -251,4 +255,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
