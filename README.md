@@ -172,6 +172,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Array
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0994-rotting-oranges](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
