@@ -172,6 +172,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Array
 |  |
@@ -189,6 +190,7 @@
 | [0179-largest-number](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0322-coin-change](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -268,4 +271,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
