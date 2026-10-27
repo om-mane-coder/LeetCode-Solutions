@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Greedy
 |  |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/om-mane-coder/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
